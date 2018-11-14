@@ -16,6 +16,3 @@ Following are the types of operations performed :
  - Deletion</br>
  - Searching</br> 
  - Sorting</br>
-
-
- 
